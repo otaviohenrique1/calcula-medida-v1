@@ -1,0 +1,41 @@
+.pagina {
+  max-width: 100%;
+}
+
+.area-traco {
+  text-align: center;
+  margin: 0;
+}
+
+.area-traco hr {
+  width: 100%;
+  border: 1px solid black;
+  height: 3px;
+  background-color: black;
+}
+
+.bg-blue-custom {
+  background: #30cced;
+}
+
+.nav-titulo {
+  padding: 0 1em;
+}
+
+.area-botoes {
+  text-align: right;
+  margin-bottom: 0;
+}
+
+.area-tabela {
+  overflow: scroll;
+  overflow-y: hidden;
+}
+
+footer.rodape div div ul li {
+  background-color: lightblue;
+}
+
+footer.rodape div div ul li label {
+  color: black;
+}
